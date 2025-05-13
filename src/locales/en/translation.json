@@ -1,4 +1,6 @@
 {
 	"home_title": "Home",
-	"menu_items_home": "Home"
+	"aboutme_title": "About-me",
+	"menu_items_home": "home",
+	"menu_items_aboutme": "about-me"
 }

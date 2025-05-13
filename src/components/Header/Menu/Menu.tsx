@@ -15,11 +15,11 @@ const Menu = () => {
 			id: "1",
 			label: <TransText textKey={"menu_items_home"} />,
 			icon: "home",
-			path: ["/home", "/"],
+			path: ["/", "/home"],
 		},
 		{
 			id: "2",
-			label: <TransText textKey={"menu_items_home"} />,
+			label: <TransText textKey={"menu_items_aboutme"} />,
 			icon: "aboutme",
 			path: ["/aboutme"],
 		},

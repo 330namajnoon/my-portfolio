@@ -4,4 +4,5 @@ export const ItemButton = styled.button`
 	background-color: transparent;
 	border: 0px;
 	display: flex;
+	cursor: pointer;
 `;
